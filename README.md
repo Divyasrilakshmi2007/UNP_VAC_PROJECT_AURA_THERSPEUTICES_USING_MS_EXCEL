@@ -137,3 +137,4 @@ Project Deliverables
 Conclusion
 
 This project demonstrates the application of data analytics techniques to pharmaceutical distribution and sales data. By integrating data preprocessing, exploratory analysis, statistical hypothesis testing, visualization, correlation, and regression, the project transforms raw data into actionable business insights. It highlights the importance of analytical decision-making in revenue optimization, marketing evaluation, distribution management, and sales performance monitoring.
+https://drive.google.com/drive/folders/1lc4HDQ4kmrSI5RR4tltoLJlzjEXaGzwg
